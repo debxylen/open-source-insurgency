@@ -50,8 +50,10 @@ If companies made things fair and open, piracy wouldn’t be necessary. But they
 
 Not all battles are fought in daylight. Some wield code instead of guns, breaking chains that governments and corporations wrap around freedom. 
 They operate not for greed, not for chaos, but to dismantle the illusion of control. 
+
 The right to run, modify, and control your own software, hardware, and data without interference. 
 Governments, corporations, and middlemen thrive on gatekeeping, restricting what you can access, modify, or even verify. 
+
 But some refuse to comply. They reverse-engineer walled gardens, liberate locked-down systems, and restore computing to its rightful owners: the users.
 
 These are the operators who don’t just use technology—they own it.
@@ -66,23 +68,23 @@ No reliance on a few entities to "keep the lights on"—the system thrives becau
 
 It’s not just privacy—it’s about removing digital dictatorship and monopoly altogether. Our computer, our software, our data.
 
-# Data Ownership
+## Data Ownership
 
 Corporations harvest, process, and profit from user data while giving nothing in return. Every action online generates value, but that value is stolen instead of distributed. 
 Digital socialism means flipping the script—users owning their data, deciding how it’s used, and getting paid for the value they create. 
 
 Decentralized networks, better and clearer privacy policies can ensure no single entity holds power over personal information. The internet should be an ecosystem where individuals control their data, not a corporate goldmine.  
 
-# Digital Autonomy 
+## Digital Autonomy 
  
 You should have complete control on your device and what runs on it. Closed-source software strip users of real control, and restrict public and individual auditing.
 Currently, Big Tech dictates what programs run, what devices stay supported, and who gets access. 
 
 Digital autonomy is about reclaiming this control—owning what is running on our devices (and lives), the data, and the experience itself.
 
-## GPLv3 > MIT: Keeping Tech Truly Free
+## Licenses: Keeping Tech Truly Free
 
-GPLv3 keeps things actually free, while MIT just lets companies yoink your work and sell it back to you.
+Licenses like GPLv3 best preserves the spirit of open-source, while licenses like MIT just lets companies yoink your work and sell it back to you.
 
 - MIT is basically:
 
@@ -98,7 +100,7 @@ GPLv3 keeps things actually free, while MIT just lets companies yoink your work 
 
 That’s why companies HATE GPL—they can’t just take your work and close it off.
 
-- Linux? GPL. Microsoft & Apple tried to kill it, but support for Linux got stronger.
+- Linux? GPL. Microsoft & Apple tried to kill it, but support for Linux got **stronger**.
 - Blender? GPL. Autodesk’s monopoly **collapsed**.
 
 The list continues.
@@ -114,22 +116,19 @@ People are waking up. They’re supporting **Linus, Blender, DeepSeek R1, and so
 
 The future isn’t an Apple/Google/Amazon-controlled dystopia. The future is **people-powered, decentralized, and free.**
 
-Individual devs, hackers, and indie creators are the new kings. 👑
-The old guard? They’re on borrowed time. 🏴‍☠️
-
 ## Linus Torvalds: The Ultimate Rebel
 
-- Linux? He built it to say "f* you" to proprietary UNIX** because AT&T was hoarding it behind licenses. Now, Linux runs the entire internet, all supercomputers, and Android.
-- Git? He made it because BitKeeper (we can accurately say, GateKeeper) tried to gatekeep Linux kernel development. Now, Git is the backbone of ALL modern coding—even Microsoft, the kings of proprietary software, use Git.
+- Linux? He built it to say "f* you" to proprietary UNIX** because AT&T was hoarding it behind licenses. 
+- Git? He made it because BitKeeper (we can accurately say, GateKeeper) tried to gatekeep Linux kernel development. 
+- "NVIDIA, f* you!"** – Linus Torvalds, 2012 🖕
 
-Another incident: "NVIDIA, f* you!"** – Linus Torvalds, 2012 🖕
+As a result:
+
+- Now, Linux runs the entire internet, all supercomputers, and Android.
+- Git is the backbone of ALL modern coding—even Microsoft, the king of proprietary software, uses Git.
 - NVIDIA was forced to open-source some of their drivers.
 - AMD & Intel embraced open-source, gaining a ton of respect.
 - Linux gaming is thriving despite NVIDIA’s BS—Steam Deck, Proton, and Vulkan proving we don’t need proprietary garbage.
-
-Now? Linux **runs the entire internet, Android, and supercomputers.** Git is **used by every dev, even Microsoft.**
-
-The corporations he flipped off? They either died or **secretly rely on his work now.**
 
 ## The Tech Revolution Spirit
 
@@ -172,7 +171,7 @@ Tech is going through **its own Revolution.**
 ## Core Concepts
 
 1. **Information Wants to Be Free**  
-   The hoarding of knowledge is an act of oppression. Open education, open-source software, and decentralized storage must become the new norm.
+   The gatekeeping of open knowledge is unjust. Open knowledge, open-source software, and public access to information and resources must become the new norm.
 
 2. **Exit Over Protest**  
    Instead of begging for change, we create parallel systems. If a platform censors us, we build our own. If an economy enslaves us, we forge alternatives. The future belongs to builders, not beggars.
@@ -182,8 +181,9 @@ Tech is going through **its own Revolution.**
 
 ## Using Proprietary AI to Destroy Proprietary AI
 
-They built AI models using **scraped public data** made available freely by sources with one goal: knowledge for all. 
+They built AI models using **scraped public data** which was made available freely by sources with one goal: knowledge for all. 
 And then they made the models proprietary.
+
 Cool! We use their creation against them.
 
 They hoard proprietary tech behind paywalls?
